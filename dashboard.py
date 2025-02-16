@@ -131,4 +131,3 @@ elif st.session_state.page == "Customer Segmentation":
     if st.button("← Go to EDA Insights"):
         go_to("EDA Insights")
 
-# Run the Streamlit app with: streamlit run filename.py
