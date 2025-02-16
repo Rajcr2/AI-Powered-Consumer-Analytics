@@ -45,7 +45,7 @@ Other Utility Libraries : **Matplotlib**, **io**.
 4.   Clone this Repository :
 
    ```
-   https://github.com/Rajcr2/AI-Powered-Consumer-Analytics.git
+   https://github.com/Rajcr2/Data-Driven-Consumer-Analytics.git
    ```
 5.   Now, Install all mentioned required libraries in your environment.
 6.   After, that Run **'dashboard.py'** file from Terminal. To activate the dashboard on your browser.
