@@ -33,7 +33,7 @@ Other Utility Libraries : **Matplotlib**, **io**.
 
 ### Procedure
 
-1.   Create new directory **'AI Consumer Analytics'**.
+1.   Create new directory **'Consumer Analytics'**.
 2.   Inside that directory/folder create new environment.
    
    ```
@@ -80,7 +80,7 @@ Other Utility Libraries : **Matplotlib**, **io**.
 
 ### Conclusion 
 
-Like this we can develope a AI powered Consumer Analytics application which can provide same Business Insights and other things where we just have pass the data into that application.
+Like this we can develope a Consumer Analytics application which can provide same Business Insights and other things where we just have pass the data into that application.
 Thats all, Thanks for Reading stay tuned for More.
 
 
