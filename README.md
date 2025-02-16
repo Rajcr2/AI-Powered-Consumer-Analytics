@@ -1,4 +1,4 @@
-# AI-Powered Consumer Analytics
+# Data-Driven Consumer Analytics
 
 ## Introduction
 
