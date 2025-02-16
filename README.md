@@ -1,1 +1,1 @@
-# Customer-Analytics-AI-
+# AI-Powered Consumer Analytics
